@@ -19,6 +19,7 @@ public class Sample {
     @BeforeMethod
     public void setUp() {
         System.out.println("BeforeMethod: This runs before each test method.");
+        System.out.println("BeforeMethod: This runs before each test method.....");
     }
 
     // Sample test method 1
