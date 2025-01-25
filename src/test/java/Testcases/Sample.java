@@ -48,6 +48,12 @@ public class Sample {
         // Assert that 5 * 3 equals 16 (This will fail because 5 * 3 equals 15)
         Assert.assertEquals(result, 15);
     }
+    
+    @Test
+    public void testNew() {
+        System.out.println("Test Git hook");
+ 
+    }
 
     // AfterMethod runs after each test method
     @AfterMethod
