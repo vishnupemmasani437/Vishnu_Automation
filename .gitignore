@@ -1,0 +1,22 @@
+# Java build directories
+/bin/
+/target/
+
+# IDE specific files
+.idea/
+.project
+.classpath
+.settings/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
