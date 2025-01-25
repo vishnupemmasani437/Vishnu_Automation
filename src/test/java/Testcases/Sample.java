@@ -51,7 +51,7 @@ public class Sample {
     
     @Test
     public void testNew() {
-        System.out.println("Test Git hook");
+        System.out.println("Test NG hook");
  
     }
 
