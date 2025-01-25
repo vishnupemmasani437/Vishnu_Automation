@@ -46,7 +46,7 @@ public class Sample {
         int result = 5 * 3;
         System.out.println("Test 3: Multiplication test.");
         // Assert that 5 * 3 equals 16 (This will fail because 5 * 3 equals 15)
-        Assert.assertEquals(result, 16);
+        Assert.assertEquals(result, 15);
     }
 
     // AfterMethod runs after each test method
