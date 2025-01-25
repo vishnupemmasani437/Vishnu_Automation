@@ -54,6 +54,12 @@ public class Sample {
         System.out.println("Test NG hook");
  
     }
+    
+    @Test
+    public void test5() {
+        System.out.println("Test NG hook 05");
+ 
+    }
 
     // AfterMethod runs after each test method
     @AfterMethod
